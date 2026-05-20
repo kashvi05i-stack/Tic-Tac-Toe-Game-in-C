@@ -35,15 +35,8 @@ gcc tic-tac-toe.c -o tic-tac-toe
 ```
 
 ## Sample Output
-```text
- X | O | X
----|---|---
- O | X | O
----|---|---
- X |   | O
+![imagealt](https://github.com/kashvi05i-stack/Tic-Tac-Toe-Game-in-C/blob/3016e0032c77df4fc9c322d2cf6951593d986fa1/Output.png)
 
-YOU WIN!
-```
 
 ## Learning Outcomes
 - Improved understanding of C programming fundamentals
